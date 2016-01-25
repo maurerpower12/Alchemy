@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\josep_000\documents\visual studio 2013\projects\cst 211\l01 joseph maurer\l01 joseph maurer\</FILEPATH><FILENAME>display.cpp</FILENAME><LINE>320</LINE><COLUMN>20</COLUMN></SFA><DEFECTCODE>6289</DEFECTCODE><DESCRIPTION>Incorrect operator:  mutual exclusion over || is always a non-zero constant.  Did you intend to use &amp;&amp; instead?</DESCRIPTION><FUNCTION>Display::PlaceSymbol</FUNCTION><DECORATED>?PlaceSymbol@Display@@QAEXHHHH@Z</DECORATED><FUNCLINE>318</FUNCLINE><PATH/></DEFECT></DEFECTS>

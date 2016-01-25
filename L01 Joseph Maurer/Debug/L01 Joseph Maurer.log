@@ -1,0 +1,26 @@
+﻿Build started 10/10/2015 9:52:53 PM.
+     1>Project "\\Mac\Home\Documents\Visual Studio 2013\Projects\VS 2013\CST 211\L01 Joseph Maurer\L01 Joseph Maurer\L01 Joseph Maurer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Alchemy.cpp Board.cpp Cauldren.cpp Display.cpp Exception.cpp "Lab 1 Main.cpp" Symbol.cpp
+         Symbol.cpp
+         Lab 1 Main.cpp
+         Exception.cpp
+         Display.cpp
+         Cauldren.cpp
+         Board.cpp
+         Alchemy.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\Mac\Home\Documents\Visual Studio 2013\Projects\VS 2013\CST 211\L01 Joseph Maurer\Debug\L01 Joseph Maurer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\Mac\Home\Documents\Visual Studio 2013\Projects\VS 2013\CST 211\L01 Joseph Maurer\Debug\L01 Joseph Maurer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\Mac\Home\Documents\Visual Studio 2013\Projects\VS 2013\CST 211\L01 Joseph Maurer\Debug\L01 Joseph Maurer.lib" /MACHINE:X86 Debug\Alchemy.obj
+         Debug\Board.obj
+         Debug\Cauldren.obj
+         Debug\Display.obj
+         Debug\Exception.obj
+         "Debug\Lab 1 Main.obj"
+         Debug\Symbol.obj
+         L01 Joseph Maurer.vcxproj -> \\Mac\Home\Documents\Visual Studio 2013\Projects\VS 2013\CST 211\L01 Joseph Maurer\Debug\L01 Joseph Maurer.exe
+     1>Done Building Project "\\Mac\Home\Documents\Visual Studio 2013\Projects\VS 2013\CST 211\L01 Joseph Maurer\L01 Joseph Maurer\L01 Joseph Maurer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.36

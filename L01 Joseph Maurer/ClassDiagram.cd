@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="Alchemy" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAiIAgAACAAAAAAAAIAAIBgIAAiAQIRgSAAAABA=</HashCode>
+      <FileName>Alchemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Array&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAAAAECAAAAAAAAAAAAEkAAABAAAAgAAAIgAA=</HashCode>
+      <FileName>Array.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Array2D&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAEAkAAAAAAAAAAAAAAIAEgAAAAAAAgQAEIAAA=</HashCode>
+      <FileName>Array2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAIAAAAAAAAAAAAAACCQAAgCCgICAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cauldren" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAAAAAAAAAAAAAAAAgACAAggCAAAAAA=</HashCode>
+      <FileName>Cauldren.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Display" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACABIAAAAgBAIAAQAAQAAQAAAKAiAwAAgBAgIAAA=</HashCode>
+      <FileName>Display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAEAAAAABAAABgAAAgAAA=</HashCode>
+      <FileName>Exception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Random.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Row&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAEgAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Row.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Symbol" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIogAAIAAAACAEYACAAEAAAYAABAAAAIAAggAwICAA=</HashCode>
+      <FileName>Symbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="symbol_ascii" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAIAQwAAAAEAAAAAACAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Rank.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="symbol_color" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAAAAAIAAAAAAAABEggAAAAABEAAAAAAAAAA=</HashCode>
+      <FileName>Rank.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
