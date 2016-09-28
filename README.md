@@ -20,3 +20,6 @@ You must use the two dimensional array created in Assignment 3.
 Use any symbols you desire but the first level must have five different symbols and five colors. Each level will increase the number of symbols by one as well as the number of colors. The colors are also your choice.
 Your game must include at least two levels.
 Ignore the Skill Level setting.
+
+Screenshot:
+<img src="https://raw.githubusercontent.com/maurerpower12/Alchemy/master/Screen%20Shot%202016-09-27%20at%2010.04.51%20PM.png">
